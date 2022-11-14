@@ -28,4 +28,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Jarom Anderson
+* Jarom Anderson (jand19081@byui.edu)
